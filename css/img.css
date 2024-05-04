@@ -1,0 +1,26 @@
+.aaa img{
+    width: 200px;
+    transition: width 1s, height 1s;
+  }
+  .aaa:hover img{
+    width: 500px;
+    height: 200px;
+   
+  }
+
+
+  .bbb img{
+    width: 200px;
+    transition: width 1s, height 1s;
+  }
+  .bbb:hover img{
+    width: 400px;
+    height: 500px;
+   
+  }
+  
+  .www{
+    box-shadow: 10px 10px 5px lightblue;
+    font-size: 50px;
+    color: red;
+  }
